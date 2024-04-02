@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Estilo padrão com barra de status -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Outros atributos do estilo -->
+    </style>
+
+    <!-- Estilo sem barra de status -->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Outros atributos do estilo -->
+    </style>
+
+</resources>
